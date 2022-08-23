@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../ECommerce/Registration/scss/common/minxi.scss"
+    ],
+    "names": [],
+    "file": "minxi.css"
+}
